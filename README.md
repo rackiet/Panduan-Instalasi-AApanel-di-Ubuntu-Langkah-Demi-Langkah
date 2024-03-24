@@ -33,20 +33,15 @@ wget -O install.sh https://www.aapanel.com/script/install-ubuntu_6.0_en.sh && ba
 ```
 
 ## Langkah 5: Ubah Izin Skrip Instalasi
-Ubah izin skrip instalasi agar dapat dieksekusi dengan menjalankan perintah berikut:
-```bash
-chmod +x install.sh
-```
+Selesai deh tinggal login aja kalo udah muncul
 
-## Langkah 6: Jalankan Skrip Instalasi
-Jalankan skrip instalasi dengan perintah berikut:
-```bash
-sudo ./install.sh
-```
-Ikuti petunjuk di layar untuk menyelesaikan proses instalasi. Anda akan diminta untuk memasukkan informasi seperti nama domain, email, dan kata sandi.
-
-## Langkah 7: Akses AApanel
-Setelah instalasi selesai, Anda akan melihat URL, username, dan password untuk login ke AApanel. Catat informasi ini.
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+aaPanel Internet Address: https://IP:PORT/RANDOMLINK
+aaPanel Internal Address: [[https://161.97.86.183:38986/263140b](https://IP:PORT/RANDOMLINK)4](https://IP:PORT/RANDOMLINK)
+username: USERNYA
+password: PASSNYA
 
 Buka browser web dan akses AApanel menggunakan URL yang diberikan (misalnya, `http://alamat_ip:8888` atau `http://domain.com:8888`).
 
